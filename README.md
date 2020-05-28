@@ -1,2 +1,2 @@
 # nilinli.github.io
-personal blig
+personal blog
